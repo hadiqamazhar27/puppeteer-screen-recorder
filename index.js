@@ -11,7 +11,7 @@ const PuppeteerScreenRecorder = require('puppeteer-screen-recorder');
             "--disable-gpu",
             "--disable-dev-shm-usage",
             "--disable-setuid-sandbox",
-            "--no-sandbox",
+            "--no-sandboxxxxx",
         ]
     })
 
